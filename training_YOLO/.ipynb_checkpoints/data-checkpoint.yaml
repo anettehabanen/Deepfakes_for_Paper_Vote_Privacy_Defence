@@ -1,0 +1,6 @@
+path: ../datasets/YOLO_training_data_example_openImg+fonts
+train: images/train
+val: images/val 
+
+names:
+  0: digit

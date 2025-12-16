@@ -1,0 +1,13 @@
+
+path:
+train: 
+  - ../datasets/YOLO_training_data_example_openImg+EMNIST/images/train
+  - ../datasets/YOLO_training_data_example_ballots+EMNIST/images/train
+  - ../datasets/YOLO_training_data_example_openImg+fonts/images/train
+val: 
+  - ../datasets/YOLO_training_data_example_openImg+EMNIST/images/val
+  - ../datasets/YOLO_training_data_example_ballots+EMNIST/images/val
+  - ../datasets/YOLO_training_data_example_openImg+fonts/images/val
+
+names:
+    0: digit
